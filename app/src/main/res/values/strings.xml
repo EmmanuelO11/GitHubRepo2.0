@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubRepo2.0</string>
+    <string name="title_home">Home</string>
+    <string name="title_history">History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_repository_list">RepositoryListActivity</string>
+
+</resources>
